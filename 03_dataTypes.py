@@ -45,7 +45,7 @@ print(type(my_sets))
 #5.Boolean
 
 #6.Binary Type
-#bytes
+#a.bytes
 byte1 = b"Kushal"
-#bytearray
-#memoryview
+#b.bytearray
+#c.memoryview
